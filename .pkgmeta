@@ -1,0 +1,9 @@
+package-as: Way
+
+enable-nolib-creation: no
+
+ignore:
+  - README.md
+  - AGENTS.md
+  - .github
+  - .gitignore
