@@ -11,6 +11,7 @@ API that powers retail's built-in map-pin feature.
 - `/way clear` (or `/way off`) - clear the current waypoint.
 - Only registers `/way` if no other addon (e.g. TomTom) already owns that
   slash command, so it's safe to run alongside other waypoint addons.
+- Listed under **Map** in the AddOns list with a map icon.
 
 ## Installation
 
