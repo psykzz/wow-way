@@ -2,7 +2,7 @@
 ## Title: Way
 ## Notes: Lightweight /way command that drops a map/world waypoint pin (like TomTom), but only if no other addon already provides /way.
 ## Author: PsyKzz
-## Version: 0.0.1
+## Version: 0.0.2
 ## X-Curse-Project-ID: 1711965
 ## X-Category: User Interface
 ## Category: Map
